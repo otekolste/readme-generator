@@ -1,5 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
+const generator = require('./generateReadMe.js');
 
 inquirer
     .prompt([
@@ -57,7 +58,8 @@ inquirer
         }
     ])
     .then(response => {
-        fs.writeFile('README.md',response.projectTitle, (err) => 
-            err ? console.log("Sorry, an error occurred: " + error) : console.log("Successfully generated README!")
-        )
+        generator.writeReadMe(response);
     })
+
+
+
