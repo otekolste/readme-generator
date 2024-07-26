@@ -4,11 +4,17 @@
 
 ## Table of Contents
 [Description](#Description)
+
 [Installation](#Installation)
+
 [Usage](#Usage)
+
 [License](#License)
+
 [Contributing](#Contributing)
+
 [Tests](#Tests)
+
 [Questions](#Questions)
 
 ## Description
@@ -20,7 +26,7 @@ Before you begin, make sure you have Node installed. You can download this as a 
 ## Usage
 To start, run the program. You will be walked through the different important sections of the README - just type your answers in in response to the questions! For the license portion, select one of the licenses listed by using the arrow keys. (I chose to include the most common licenses.) Then, check out the generated file called "generatedREADME.md"!
 
-#License
+## License
 This project is covered under the MIT License. For more information, click on the badge beneath the title.
 
 ## Contributing

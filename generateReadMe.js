@@ -11,11 +11,17 @@ ${generateLicenseBadge(response.projectLicense)}
 
 ## Table of Contents
 [Description](#Description)
+
 [Installation](#Installation)
+
 [Usage](#Usage)
+
 [License](#License)
+
 [Contributing](#Contributing)
+
 [Tests](#Tests)
+
 [Questions](#Questions)
 
 ## Description
@@ -27,7 +33,7 @@ ${response.projectInstallation}
 ## Usage
 ${response.projectUsage}
 
-#License
+## License
 This project is covered under the ${response.projectLicense}. For more information, click on the badge beneath the title.
 
 ## Contributing
