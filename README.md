@@ -12,14 +12,20 @@ Before you begin, make sure you have Node installed. You can download this as a 
 
 ## Usage 
 To start, run the program. You will be walked through the different important sections of the README - just type your answers in in response to the questions! 
+
 ![The application prompting you after running it](./images/rmGen1.png)
+
 For the license portion, select one of the licenses listed by using the arrow keys. (I chose to include the most common licenses.) 
+
 ![The license prompt of the app](./images/rmGen2.png)
+
 Then, check out the file that gets generated called "generatedREADME.md"!
+
 ![The generated README file](./images/rmGen3.png)
 
 Check out the full video below:
-<iframe src="https://drive.google.com/file/d/1Qz7R9VaFstT_FYLEoZUJdbgqJHjLhHLC/preview" width="640" height="480"></iframe>
+[<iframe src="https://drive.google.com/file/d/1Qz7R9VaFstT_FYLEoZUJdbgqJHjLhHLC/preview" width="640" height="480"></iframe>
+](https://drive.google.com/file/d/1Qz7R9VaFstT_FYLEoZUJdbgqJHjLhHLC/view?usp=sharing)
 
 ## Credits
 This project makes use of the [Inquirer package](https://www.npmjs.com/package/inquirer).
