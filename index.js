@@ -22,7 +22,7 @@ inquirer
         {
             type: "input",
             name: "projectUsage",
-            message: "Now provide some information about your project usage:"
+            message: "Now provide some information about how to use your project:"
         },
         {
             type: "input",
