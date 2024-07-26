@@ -23,9 +23,7 @@ Then, check out the file that gets generated called "generatedREADME.md"!
 
 ![The generated README file](./images/rmGen3.png)
 
-Check out the full video below:
-[<iframe src="https://drive.google.com/file/d/1Qz7R9VaFstT_FYLEoZUJdbgqJHjLhHLC/preview" width="640" height="480"></iframe>
-](https://drive.google.com/file/d/1Qz7R9VaFstT_FYLEoZUJdbgqJHjLhHLC/view?usp=sharing)
+[Check out a video walkthrough here!](https://drive.google.com/file/d/1Qz7R9VaFstT_FYLEoZUJdbgqJHjLhHLC/view?usp=sharing)
 
 ## Credits
 This project makes use of the [Inquirer package](https://www.npmjs.com/package/inquirer).
