@@ -38,7 +38,7 @@ ${response.projectTests}
 
 
 ## Questions
-Have any questions? Reach out to me via [my GitHub](github.com/${response.userUsername}), or email me at ${userEmail}.
+Have any questions? Reach out to me via [my GitHub](github.com/${response.userUsername}), or email me at ${response.userEmail}.
     `;
 
 
@@ -46,7 +46,7 @@ Have any questions? Reach out to me via [my GitHub](github.com/${response.userUs
 }
 
 function writeReadMe(response) {
-    fs.writeFile('README.md',generateReadMe(response), (err) => 
+    fs.writeFile('generatedREADME.md',generateReadMe(response), (err) => 
         err ? console.log("Sorry, an error occurred: " + error) : console.log("Successfully generated README!")
     )
 

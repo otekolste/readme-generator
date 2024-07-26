@@ -1,5 +1,4 @@
 const inquirer = require('inquirer');
-const fs = require('fs');
 const generator = require('./generateReadMe.js');
 
 inquirer
