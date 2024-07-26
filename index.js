@@ -44,7 +44,7 @@ inquirer
             type: "list",
             name: "projectLicense",
             message: "Now choose a license from the list below:",
-            choices: ["MIT License","GNU General Public License","GNU Lesser General Public License","Apache License 2.0","Mozilla Public License 2.0","BSD License"]
+            choices: ["MIT License","GNU GPL v3","Apache License 2.0","Mozilla Public License 2.0","BSD 3-Clause License"]
         },
         {
             type: "input",
